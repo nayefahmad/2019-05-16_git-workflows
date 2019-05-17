@@ -5,7 +5,7 @@ Poo was a big fan of honey.
 He'd eat it every day for breakfast, lunch, dinner, and second dinner along with a helping of salad and fish.
 Vitmanins are important bro!
 But this morning he ran out of honey.
-"Oh boy, oh no, oh dear. I'm all out of honey" Poo said.
+"Oh boy, oh no, oh dear. I'm all out of honey" Poo exclaimed. 
 "Whatever will I do?" he said with a deep sigh.
 
 And then he died. 
