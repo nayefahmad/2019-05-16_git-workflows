@@ -16,6 +16,8 @@ Let's say you want to use the code in this repo. Three use cases:
 1. Instead of forking, start by cloning and saving the folder. 
 2. *Before making any changes*, create a development branch. 
 3. [to be decided] 
+reference: https://gist.github.com/seshness/3943237 
+
 
 ## Things to test
 1. What happens if the upstream fork renames the repo on the cloud? What about renaming specific files? 
