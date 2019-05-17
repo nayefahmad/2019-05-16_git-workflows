@@ -13,9 +13,12 @@ Let's say you want to use the code in this repo. Three use cases:
 4. Now you want to merge from your master to the "upstream" master. To do that, go to the upstream master on GitHub.com and click on new pull request. 
 
 ## Proposed workflow 2: Start with branching 
-
+1. Instead of forking, start by cloning and saving the folder. 
+2. *Before making any changes*, create a development branch. 
+3. [to be decided] 
 
 ## Things to test
-1. What happens if the upstream fork renames the repo on the cloud? 
+1. What happens if the upstream fork renames the repo on the cloud? What about renaming specific files? 
 2. How to pull from upstream repo into a fork? 
 3. How do we resolve merge conflicts? 
+4. How frequently should collaborators be merging from upstream into their fork/branch? 
