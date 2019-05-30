@@ -23,6 +23,6 @@ reference: https://gist.github.com/seshness/3943237
 1. What happens if the upstream fork renames the repo on the cloud? 
 2. What happens if we rename specific files in the upstream repo? 
 3. How to pull from upstream repo into a fork? 
-  - https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
+    - https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
 4. How do we resolve merge conflicts? 
 5. How frequently should collaborators be merging from upstream into their fork/branch? 
