@@ -1,4 +1,4 @@
-# 2019-05-16_git-workflows
+# Using git for collaboration and version control 
 
 Let's say you want to use the code in this repo. Three use cases: 
 1. **Use code as is**  - e.g.:  you just want to rerun a query 
@@ -28,4 +28,4 @@ reference: https://gist.github.com/seshness/3943237
     - https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
 4. How do we resolve merge conflicts? 
 5. How frequently should collaborators be merging from upstream into their fork/branch? 
-6. Looks like its easier to compare with upstream repo if you're on a branch, rather than a separate for. Therefore, Workflow 2 above may make more sense for people collaborating closely on the same project. 
+6. Looks like its easier to compare with upstream repo if you're on a branch, rather than a separate fork. Therefore, Workflow 2 above may make more sense for people collaborating closely on the same project. 
