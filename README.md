@@ -33,4 +33,4 @@ reference: https://gist.github.com/seshness/3943237
 ## Notes 
 1. Looks like its easier to compare with upstream repo if you're on a branch, rather than a separate fork. Therefore, Workflow 2 above may make more sense for people collaborating closely on the same project. 
 
-![image](https://raw.githubusercontent.com/nayefahmad/2019-05-16_git-workflows/images/2019-05-31_comparing-branch-with-master.PNG)
+![image](https://raw.githubusercontent.com/nayefahmad/2019-05-16_git-workflows/master/images/2019-05-31_comparing-branch-with-master.PNG)
