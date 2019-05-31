@@ -20,7 +20,7 @@ Let's say you want to use the code in this repo. Three use cases:
 reference: https://gist.github.com/seshness/3943237 
 
 
-## Things to test
+## Things to test/investigate
 1. What happens if the upstream fork renames the repo on the cloud? 
 2. What happens if we rename specific files in the upstream repo? 
     - test in progress 
@@ -28,4 +28,7 @@ reference: https://gist.github.com/seshness/3943237
     - https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
 4. How do we resolve merge conflicts? 
 5. How frequently should collaborators be merging from upstream into their fork/branch? 
-6. Looks like its easier to compare with upstream repo if you're on a branch, rather than a separate fork. Therefore, Workflow 2 above may make more sense for people collaborating closely on the same project. 
+    - (see Note 1 below): It's much easier to check whether a *branch* is ahead/behind master than it is to check the same thing for a *fork*. 
+
+## Notes 
+1. Looks like its easier to compare with upstream repo if you're on a branch, rather than a separate fork. Therefore, Workflow 2 above may make more sense for people collaborating closely on the same project. 
